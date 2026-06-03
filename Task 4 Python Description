@@ -1,0 +1,7 @@
+Task 4: Predicting Insurance Claim Amounts
+Objective: Estimate medical insurance charges based on personal data.
+Tools: Scikit-Learn (Linear Regression), Matplotlib.
+Approach:
+Analyzed how Age, BMI, and Smoking status impact costs.
+Evaluated model using MAE and RMSE.
+Run: python task4.py
