@@ -1,0 +1,9 @@
+Task 2: Credit Risk Prediction
+Objective: Predict loan applicant default status.
+Tools: Scikit-Learn (Logistic Regression), Pandas.
+Approach:
+Handled missing data using mean/mode imputation.
+Encoded categorical variables.
+Achieved high accuracy on the test set.
+Run: python task2.py
+
