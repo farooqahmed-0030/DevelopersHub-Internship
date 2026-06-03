@@ -1,0 +1,7 @@
+Task 1: Exploring and Visualizing a Simple Dataset
+Objective: Analyze the Iris dataset structure and visualize relationships.
+Tools: Pandas, Matplotlib, Seaborn.
+Key Findings:
+Created scatterplots to analyze sepal dimensions.
+Used boxplots to identify outliers in petal measurements.
+Run: python task1.py
